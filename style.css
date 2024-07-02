@@ -1,0 +1,50 @@
+*{
+    background-color: black;
+    display: block;
+}
+
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 56px;
+    background-color: aqua;
+    margin: 12px;
+    outline: solid #0000ff 8px;
+    width: 380px;
+    margin-left: 500px;
+}
+
+div{
+    padding: 16px;
+}
+
+div{
+    margin: 16px;
+    display: block;
+    background-color: aqua;
+}
+
+li{
+    color: aqua;
+}
+
+a{
+    font-size: 27px;
+    color: blue;
+    margin: 16px;
+    padding: 8px;
+    display: inline-block;
+    
+}
+
+img{
+    width: fit-content;
+    height: auto;
+}
+
+p{
+    color: aqua;
+    font-size: larger;
+}
+
